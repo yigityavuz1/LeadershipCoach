@@ -296,12 +296,7 @@ If the RAG application can't connect to Weaviate:
    curl http://localhost:8080/v1/meta
    ```
 
-3. Run the diagnostic script:
-   ```bash
-   python test_weaviate_connection.py
-   ```
-
-4. Check Docker network:
+3. Check Docker network:
    ```bash
    docker network inspect app_rag-network
    ```
