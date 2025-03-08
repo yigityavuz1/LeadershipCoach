@@ -152,13 +152,13 @@ def get_app_instance():
 
 async def main():
     st.set_page_config(
-        page_title="YouTube RAG Assistant",
+        page_title="LeadershipCoach",
         page_icon="🎥",
         layout="wide",
         initial_sidebar_state="collapsed"
     )
     
-    st.title("🎥 YouTube Content Analysis Assistant")
+    st.title("🎥 LeadershipCoach")
     st.write("Ask questions about the content from the leadership videos.")
     
     app = get_app_instance()

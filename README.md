@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) application for processing YouTube content, enabling conversational question-answering with speech-to-text and text-to-speech capabilities.
 
-![YouTube RAG Assistant Banner](screenshots/banner.png) <!-- Replace with your application screenshot -->
+![LeadershipCoach Banner](screenshots/banner.png) 
 
 ## Purpose and Scope
 
@@ -74,13 +74,13 @@ youtube-rag-assistant/
 ## Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/main_interface.png) <!-- Replace with your actual screenshot -->
+![Main Interface](screenshots/main_interface.png) 
 
-### Chat Interaction
-![Chat Example](screenshots/chat_example.png) <!-- Replace with your actual screenshot -->
+### Chat Interaction Example - From YouTube Content
+![Chat Example](screenshots/chat_example.png) 
 
-### Source Attribution
-![Source Information](screenshots/source_info.png) <!-- Replace with your actual screenshot -->
+### Chat Interaction Example - WebSearch
+![Source Information](screenshots/websearch_example.png) 
 
 ### Environment Variables
 

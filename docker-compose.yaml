@@ -49,6 +49,8 @@ services:
     volumes:
       - ./audio_files:/app/audio_files
       - ./transcripts:/app/transcripts
+      - ./main.py:/app/main.py
+      - ./src:/app/src
     depends_on:
       weaviate:
         condition: service_started
