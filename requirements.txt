@@ -1,0 +1,37 @@
+# Core dependencies
+streamlit
+nest_asyncio
+python-dotenv
+
+# Audio processing
+ffmpeg-python
+torch
+openai-whisper
+
+# YouTube download
+pytube
+pytubefix
+
+# Web-Search tool
+duckduckgo-search
+
+# LLM and agents
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langgraph
+pydantic
+
+# Vector database
+weaviate-client
+
+# Text-to-speech
+# Note: You might need to install the elevenlabs_wrapper from a custom repository
+# or directly from ElevenLabs
+elevenlabs
+
+# Additional utilities
+numpy
+pandas
+watchdog
